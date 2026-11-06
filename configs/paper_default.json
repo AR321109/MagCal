@@ -1,0 +1,15 @@
+{
+  "selected_bands": 64,
+  "pca_components": 5,
+  "core": 6,
+  "halo": 1,
+  "ridge": 0.001,
+  "alpha": 1.0,
+  "layers": 3,
+  "learning_rate": 0.001,
+  "separation_weight": 0.001,
+  "epochs": 150,
+  "iterations": 5,
+  "output_iteration": 5,
+  "seeds": [20261020, 20261021, 20261022, 20261023, 20261024]
+}
